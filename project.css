@@ -1,0 +1,112 @@
+body {
+    background-image: url(https://ik.imgkit.net/3vlqs5axxjf/TAW/ik-seo/uploadedImages/Professional_Development/Opinion/AHLA%20News_HERO/Travelers-Are-Likely-to-Maintain-or-Increase-Hotel.jpg?tr=w-1008%2Ch-567%2Cfo-auto);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:black;
+    color: #f3eded;
+    padding:1px;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    size: xx-large;
+}
+
+header nav ul li {
+    margin-right: 20px;
+    
+}
+
+header nav a {
+    color: #fbf7f7;
+    text-decoration: none;
+    gap: 20px;
+    padding: 17px;
+    
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+}
+
+section {
+    background-color: #c7bbbb;
+    padding: 1em;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+footer {
+    background-color: #333;
+    color: #f7f9fa;
+    padding: 5px;
+    text-align: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+.a1:link{
+    color:white;
+}
+
+.a1:hover{
+    color:red;
+    background-color: whitesmoke;
+    
+}
+
+.logo{
+    border: 1px solid rgb(208, 202, 202);
+    border-radius: 8px;
+    height: 100px;
+    width:100px;
+}
+.as{
+    margin-right: 20px;
+}
